@@ -1,0 +1,16 @@
+id,name,weight,priority,deadline,destination,value
+P001,Electronics Package,3.5,5,2026-12-01,Downtown,50
+P002,Medical Supplies,1.2,5,2026-12-02,Hospital,50
+P003,Legal Documents,0.8,4,2026-12-03,Old Town,40
+P004,Fragile Glassware,7.0,3,2026-12-05,Mall,30
+P005,Birthday Cake,2.1,4,2026-12-07,Suburb North,40
+P006,Auto Parts,12.5,2,2026-12-10,Suburb North,20
+P007,Office Supplies,4.3,3,2026-12-12,Tech Park,30
+P008,Fresh Flowers,1.5,4,2026-12-14,Airport,40
+P009,Laptop Computer,2.8,5,2026-12-16,University,50
+P010,Gym Equipment,15.0,2,2026-12-18,Suburb South,20
+P011,Clothing Box,5.6,3,2026-12-20,Old Town,30
+P012,Pharmacy Order,0.9,5,2026-12-22,Station,50
+P013,Books Bundle,8.4,2,2026-12-25,Harbor,20
+P014,Toy Collection,6.2,3,2026-12-28,Suburb South,30
+P015,Emergency Tools,3.0,4,2026-12-31,Tech Park,40

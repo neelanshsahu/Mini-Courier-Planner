@@ -1,0 +1,61 @@
+id,name,weight,priority,deadline,destination,value
+P001,Electronics Package,3.5,5,2026-12-01,Downtown,50
+P002,Medical Supplies,1.2,5,2026-12-02,Hospital,50
+P003,Legal Documents,0.8,4,2026-12-03,Old Town,40
+P004,Fragile Glassware,7.0,3,2026-12-05,Mall,30
+P005,Birthday Cake,2.1,4,2026-12-07,Suburb North,40
+P006,Auto Parts,12.5,2,2026-12-10,Suburb North,20
+P007,Office Supplies,4.3,3,2026-12-12,Tech Park,30
+P008,Fresh Flowers,1.5,4,2026-12-14,Airport,40
+P009,Laptop Computer,2.8,5,2026-12-16,University,50
+P010,Gym Equipment,15.0,2,2026-12-18,Suburb South,20
+P011,Clothing Box,5.6,3,2026-12-20,Old Town,30
+P012,Pharmacy Order,0.9,5,2026-12-22,Station,50
+P013,Books Bundle,8.4,2,2026-12-25,Harbor,20
+P014,Toy Collection,6.2,3,2026-12-28,Suburb South,30
+P015,Emergency Tools,3.0,4,2026-12-31,Tech Park,40
+P016,Refrigerated Goods,9.0,4,2026-12-04,Hospital,40
+P017,Camera Equipment,2.5,4,2026-12-06,Airport,40
+P018,Furniture Parts,18.0,1,2026-12-08,Suburb South,10
+P019,Stationery Set,1.1,3,2026-12-09,Old Town,30
+P020,Power Tools,11.0,2,2026-12-11,Suburb North,20
+P021,Handmade Jewellery,0.5,5,2026-12-13,Downtown,50
+P022,Science Textbooks,4.8,3,2026-12-15,University,30
+P023,Courier Envelopes,0.6,2,2026-12-17,Station,20
+P024,Baking Supplies,3.2,3,2026-12-19,Mall,30
+P025,Musical Instruments,7.5,3,2026-12-21,Old Town,30
+P026,Sports Equipment,13.0,2,2026-12-23,Suburb South,20
+P027,Prescription Drugs,0.7,5,2026-12-24,Hospital,50
+P028,Garden Supplies,10.5,1,2026-12-26,Suburb North,10
+P029,Holiday Decorations,5.0,2,2026-12-29,Mall,20
+P030,Urgent Contracts,0.5,5,2027-01-02,Old Town,50
+P031,Wireless Headphones,1.3,4,2027-01-04,Tech Park,40
+P032,Lab Chemicals,4.0,5,2026-12-02,University,50
+P033,Vintage Wine,6.5,3,2027-01-06,Harbor,30
+P034,Security Hardware,5.5,4,2026-12-11,Old Town,40
+P035,Motorcycle Parts,14.0,2,2027-01-08,Suburb North,20
+P036,Baby Formula,0.9,5,2026-12-04,Hospital,50
+P037,Art Supplies,2.3,3,2027-01-10,Old Town,30
+P038,Portable Generator,22.0,3,2027-01-11,Suburb North,30
+P039,Smart Watch,0.6,5,2026-12-15,Downtown,50
+P040,Construction Materials,24.5,1,2027-01-13,Suburb North,10
+P041,Takeaway Food Order,1.8,5,2026-12-01,Suburb South,50
+P042,Printer Cartridges,0.8,3,2027-01-15,Tech Park,30
+P043,Frozen Meals,3.6,4,2026-12-07,Mall,40
+P044,Luxury Handbag,1.4,4,2027-01-17,Downtown,40
+P045,Industrial Filters,8.0,2,2027-01-18,Suburb North,20
+P046,Blood Test Samples,0.5,5,2026-12-03,Hospital,50
+P047,Textbook Bundle,9.5,2,2027-01-20,University,20
+P048,Neon Signs,7.8,2,2027-01-21,Old Town,20
+P049,Cordless Drill,2.9,3,2027-01-22,Suburb South,30
+P050,Rare Seeds,1.0,3,2027-01-23,Harbor,30
+P051,Smartboard Unit,19.0,3,2027-01-25,University,30
+P052,Medication Refill,0.6,5,2026-12-10,Station,50
+P053,Ceramic Pottery,4.5,2,2027-01-27,Old Town,20
+P054,Server Rack Parts,20.0,4,2027-01-28,Tech Park,40
+P055,Bike Components,6.8,3,2027-01-29,Suburb North,30
+P056,Emergency Generator,25.0,4,2027-01-30,Hospital,40
+P057,Signal Booster,1.7,4,2027-01-31,Airport,40
+P058,Toy Cars Set,3.1,2,2027-02-01,Mall,20
+P059,Fashion Accessories,1.2,3,2027-02-02,Downtown,30
+P060,Industrial Bearings,11.5,2,2027-02-03,Suburb North,20
